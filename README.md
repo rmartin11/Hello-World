@@ -35,3 +35,7 @@ Click on the create a pull request option and now I could view your pull request
 ### ✨The first 70,000 developers to complete 4 pull requests will receive a limited edition Hacktoberfest T-shirt 👚 and some stickers as well.✨.And I will make a webpage mentioning all the amazing contributors.
 ### 🌟 Star the repo it helps and don't forget to share it with others.
 
+# Our Goal
+
+To get a hello world printing programs in every language.
+
