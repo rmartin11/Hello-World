@@ -9,6 +9,9 @@
 A guide to your first pull request for #Hacktoberfest2020 for beginners on the repo <a href="#">Hello-World</a>.
 <br>
 To get your pull request counted first register for hacktoberfest at its website : https://hacktoberfest.digitalocean.com/login .The Pull Request counting will start from 1st October and end on 31st October.
+<br>
+<h3>Hey! Guys we crossed 30 contributors</h3>
+
 <h2>How to contribute ?</h2>
 So you must be wondering how you will contribute .Here are a set of steps you need to follow which would help you create your first PR :
 
