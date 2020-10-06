@@ -3,7 +3,7 @@
   <a href="https://github.com/achaljhawar/Hello-World/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/achaljhawar/Hello-World"></a>
   <a href="https://github.com/achaljhawar/Hello-World/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/achaljhawar/Hello-World"></a>
   <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fachaljhawar%2FHello-World"><img alt="Twitter" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fhome"></a>
-  <a href="#"><img src="https://img.shields.io/badge/opensource-is%20%E2%9D%A4%EF%B8%8F%EF%B8%8F%20-green"></a></p>
+  <a href="https://hacktoberfest.digitalocean.com/"><img src="https://img.shields.io/badge/opensource-is%20%E2%9D%A4%EF%B8%8F%EF%B8%8F%20-green"></a></p>
 
 <img alt="HF2020" src="https://user-images.githubusercontent.com/43699825/91566556-7e66fe80-e961-11ea-97d4-0195c6b479ba.png">
 A guide to your first pull request for #Hacktoberfest2020 for beginners on the repo <a href="#">Hello-World</a>.
