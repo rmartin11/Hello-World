@@ -5,6 +5,8 @@
   <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fachaljhawar%2FHello-World"><img alt="Twitter" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fhome"></a>
   <a href="https://github.com/achaljhawar/Hello-World"><img src="https://img.shields.io/badge/opensource-is%20%E2%9D%A4%EF%B8%8F%EF%B8%8F%20-green"></a></p>
 
+### 🌟 Star the repo it helps and don't forget to share it with others.
+
 <img alt="HF2020" src="https://user-images.githubusercontent.com/43699825/91566556-7e66fe80-e961-11ea-97d4-0195c6b479ba.png">
 A guide to your first pull request for #Hacktoberfest2020 for beginners on the repo <a href="#">Hello-World</a>.
 <br>
@@ -36,7 +38,6 @@ Click on the create a pull request option and now I could view your pull request
 <p align="center"><img src ="https://github.com/achaljhawar/Hello-World/blob/master/assets/image%205.JPG"</p>
 
 ### ✨The first 70,000 developers to complete 4 pull requests will receive a limited edition Hacktoberfest T-shirt 👚 and some stickers as well.✨.And I will make a webpage mentioning all the amazing contributors.
-### 🌟 Star the repo it helps and don't forget to share it with others.
 
 # Our Goal
 
