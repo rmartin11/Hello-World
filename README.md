@@ -6,6 +6,7 @@
   <a href="https://github.com/achaljhawar/Hello-World"><img src="https://img.shields.io/badge/opensource-is%20%E2%9D%A4%EF%B8%8F%EF%B8%8F%20-green"></a></p>
 
 ### 🌟 Star the repo it helps and don't forget to share it with others.
+### Only a week left to contribute to Hacktoberfest 2020.
 
 <img alt="HF2020" src="https://user-images.githubusercontent.com/43699825/91566556-7e66fe80-e961-11ea-97d4-0195c6b479ba.png">
 A guide to your first pull request for #Hacktoberfest2020 for beginners on the repo <a href="#">Hello-World</a>.
