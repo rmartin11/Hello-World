@@ -1,0 +1,7 @@
+namespace NSMain;
+entity HelloWorld {
+    field hello: String = "world";
+}
+entrypoint function main(): HelloWorld {
+    return HelloWorld@{};
+}
